@@ -7,10 +7,5 @@ Every craft beer enthusiast should have a brewery they can call their own. This 
 https://find-my-brewery.netlify.app/
 
 ### Technologies Used
-<<<<<<< HEAD
-=======
-
-HTML, CSS, JavaScript, Node.js, Nuxt.js, Open Brewery DB API
->>>>>>> 9b0dd0f4acc14cbc959011daf0393db129fdf53f
 
 HTML, CSS, JavaScript, Node.js, Nuxt.js, Open Brewery DB API
