@@ -1,23 +1,12 @@
-# find-my-brewery
+# Find My Brewery
 
-> Nuxt.js project
+Every craft beer enthusiast should have a brewery they can call their own. This site was created to aid in that discovery. With the use of the Open Brewery DB API, users can search via keyword, city or brewery name to find their new favorite brewery.
 
-## Build Setup
+### View the Site
 
-``` bash
-# install dependencies
-$ npm install # Or yarn install
+https://find-my-brewery.netlify.app/
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+### Technologies Used
 
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+HTML, CSS, JavaScript, Node.js, Nuxt.js, Open Brewery DB API
 
